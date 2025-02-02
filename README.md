@@ -3,7 +3,6 @@
 ###
 
 <h6 align="left">I'm a web developer, but I also work on vehicle engines, UAVs, and electronic/software systems. I develop web applications and motor-related software using Python, combining my engineering knowledge with software development. Additionally, I have advanced skills in Adobe Photoshop and After Effects, allowing me to create professional designs and video edits for both technical and creative projects.
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
