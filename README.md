@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">I'm a dedicated web developer with a deep interest in engineering, particularly in the field of vehicle mechanics. My focus extends to a variety of topics such as drone racing cars, internal combustion engines, and electric motors. I’m constantly learning and improving my skills in Python and C# to better understand the technical aspects of these fields and to contribute to innovative solutions in automotive and racing technologies.<br><br>In addition to my development work, I am highly skilled in Adobe Photoshop and After Effects. These tools allow me to create detailed and professional visual content, from stunning graphic designs to dynamic animations and video effects. I use my knowledge of these programs to enhance both the user interfaces I develop and to work on personal creative projects related to motorsports and technology.<br><br>With a strong foundation in programming and a passion for vehicles and motorsports, I am excited to merge my interests in technology and engineering to create innovative solutions in these fields.</h6>
+<h6 align="left">I'm a dedicated web developer with a deep interest in engineering, particularly in the field of vehicle mechanics. My focus extends to a variety of topics such as drone racing cars, internal combustion engines, and electric motors. I’m constantly learning and improving my skills in Python and C++ to better understand the technical aspects of these fields and to contribute to innovative solutions in automotive and racing technologies.<br><br>In addition to my development work, I am highly skilled in Adobe Photoshop and After Effects. These tools allow me to create detailed and professional visual content, from stunning graphic designs to dynamic animations and video effects. I use my knowledge of these programs to enhance both the user interfaces I develop and to work on personal creative projects related to motorsports and technology.<br><br>With a strong foundation in programming and a passion for vehicles and motorsports, I am excited to merge my interests in technology and engineering to create innovative solutions in these fields.</h6>
 
 ###
 
@@ -15,9 +15,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
