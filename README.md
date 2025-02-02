@@ -2,8 +2,7 @@
 
 ###
 
-<h6 align="left">I'm a dedicated web developer with a deep interest in engineering, particularly in the field of vehicle mechanics. My focus extends to a variety of topics such as drone racing cars, internal combustion engines, and electric motors. I’m constantly learning and improving my skills in Python and C# to better understand the technical aspects of these fields and to contribute to innovative solutions in automotive and racing technologies.<br><br>In addition to my development work, I am highly skilled in Adobe Photoshop and After Effects. These tools allow me to create detailed and professional visual content, from stunning graphic designs to dynamic animations and video effects. I use my knowledge of these programs to enhance both the user interfaces I develop and to work on personal creative projects related to motorsports and technology.<br><br>With a strong foundation in programming and a passion for vehicles and motorsports, I am excited to merge my interests in technology and engineering to create innovative solutions in these fields.</h6>
-
+<h6 align="left">I'm a web developer, but I also work on vehicle engines, UAVs, and electronic/software systems. I develop web applications and motor-related software using Python, combining my engineering knowledge with software development. Additionally, I have advanced skills in Adobe Photoshop and After Effects, allowing me to create professional designs and video edits for both technical and creative projects.
 ###
 
 <div align="center">
