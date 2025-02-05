@@ -2,9 +2,9 @@
 
 ###
 
-<h6 align="left">I am a freelance web developer specializing in web applications, but I also develop software for motorsports using Python. My work focuses on vehicle engines, UAVs, and motorsport-specific technologies, including simulation software, telemetry analysis, and performance optimization systems used in F1 and other racing disciplines. With a strong technical foundation, I aim to contribute to the motorsports industry by developing advanced software solutions that enhance performance and innovation.
+<h6 align="left">I am a freelance web developer specializing in dynamic web applications and open-source software. I also design and develop advanced vehicle systems, including simulation software and performance optimization tools for motorsports, particularly in F1 and racing. I focus on leveraging cutting-edge technology to drive innovation and enhance performance.</h6>
 
-
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -13,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="40" alt="node logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
