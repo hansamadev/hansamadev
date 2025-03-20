@@ -1,11 +1,4 @@
 <h2 align="left">🏎️ Hello, I'm HansamaDev!</h2>
-
-###
-
-<h6 align="left">I am a freelance web developer specializing in dynamic web applications and open-source software. I also design and develop advanced vehicle systems, including simulation software and performance optimization tools for motorsports, particularly in F1 and racing. I focus on leveraging cutting-edge technology to drive innovation and enhance performance.</h6>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
